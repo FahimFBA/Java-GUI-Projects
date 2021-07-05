@@ -38,6 +38,7 @@ public class AddNumbers extends javax.swing.JFrame {
         jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Math Application - Made by FBA");
 
         jTextField1.setText("jTextField1");
 
