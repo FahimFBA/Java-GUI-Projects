@@ -41,6 +41,7 @@ public class AddNumbers extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Math Application - Made by FBA");
 
+        jPanel1.setBackground(new java.awt.Color(121, 126, 255));
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder("Add Two Numbers"));
 
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
