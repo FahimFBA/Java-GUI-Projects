@@ -160,7 +160,7 @@ public class AddNumbers extends javax.swing.JFrame {
     }//GEN-LAST:event_AddActionPerformed
 
     private void ExitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitActionPerformed
-        // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_ExitActionPerformed
 
     /**
