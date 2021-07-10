@@ -35,17 +35,18 @@ Check on the projects and don't forget to :star: the repository!
 Project 01: [A Simple Math Application project](https://github.com/FahimFBA/Java-GUI-Projects/tree/main/MathApplication)
 <br>
 
-Project 02: <i> Coming soon <i> 
+Project 02: <i> Coming soon </i> 
 
-Project 03: <i> Coming soon <i>
+Project 03: <i> Coming soon </i>
 
-Project 04: <i> Coming soon <i>
+Project 04: <i> Coming soon </i>
 
-Project 05: <i> Coming soon <i>
+Project 05: <i> Coming soon </i>
 
-Project 06: <i> Coming soon <i>
+Project 06: <i> Coming soon </i>
 
-
+<br>
+<br>
 
 
 Follow me on [GitHub](https://github.com/),  [GitLab](https://gitlab.com/FahimFBA),  [Twitter](https://twitter.com/Fahim_FBA) , [LinkedIn](https://www.linkedin.com/in/fahimfba/), [Facebook](https://www.facebook.com/iptu.fba/)
