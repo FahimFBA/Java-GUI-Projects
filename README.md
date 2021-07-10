@@ -22,12 +22,28 @@ Check on the projects and don't forget to :star: the repository!
 </h3>
 
 
+<br>
+
+<h2> Project Index </h2>
+
 </div>
 
 
 <br>
 
+
 Project 01: [A Simple Math Application project](https://github.com/FahimFBA/Java-GUI-Projects/tree/main/MathApplication)
+<br>
+Project 02: <i> Coming soon <i>
+<br>
+Project 02: <i> Coming soon <i>
+<br>
+Project 03: <i> Coming soon <i>
+<br>
+Project 04: <i> Coming soon <i>
+<br>
+Project 05: <i> Coming soon <i>
+
 
 
 
