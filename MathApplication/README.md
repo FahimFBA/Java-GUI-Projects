@@ -1,21 +1,25 @@
 <h1 align="center"> MathApplication </h1>
 <hr>
 
+<div align="center">
+
+:star: the repository to keep me motivated :smiley:
+
+<h2 align="center"> Output </h2>
+<br>
 
 
-# Output
 
 
-
-<img align="center" src = "Image/First.jpg">
+![Image1](Image/First.jpg)
 
 The frontend of the application
 
-<img align="center" src = "Image/Second.jpg">
+![Image2](Image/Second.jpg)
 
 Addition of two integers values
 
-<img align="center" src = "Image/Third.jpg">
+![Image3](Image/Third.jpg)
 
 Addition of two float values
 
@@ -25,3 +29,4 @@ Addition of two float values
 
 [Download from here](https://github.com/FahimFBA/Java-GUI-Projects/tree/main/MathApplication/Jar%20File)
 
+</div>
