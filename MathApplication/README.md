@@ -5,15 +5,17 @@
 
 # Output
 
-![Image1](Image/First.jpg)
+
+
+<img align="center" src = "Image/First.jpg">
 
 The frontend of the application
 
-![Image2](Image/Second.jpg)
+<img align="center" src = "Image/Second.jpg">
 
 Addition of two integers values
 
-![Image3](Image/Third.jpg)
+<img align="center" src = "Image/Third.jpg">
 
 Addition of two float values
 
@@ -21,4 +23,5 @@ Addition of two float values
 
 # Get the jar file!
 
-[Download from here](Jar File/MathApplication.jar)
+[Download from here](https://github.com/FahimFBA/Java-GUI-Projects/tree/main/MathApplication/Jar%20File)
+
