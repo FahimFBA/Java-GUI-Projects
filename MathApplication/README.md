@@ -27,6 +27,6 @@ Addition of two float values
 
 # Get the jar file!
 
-[Download from here](https://github.com/FahimFBA/Java-GUI-Projects/tree/main/MathApplication/Jar%20File)
+[Download from here](https://github.com/FahimFBA/Java-GUI-Projects/blob/main/MathApplication/Jar%20File/MathApplication.jar)
 
 </div>
