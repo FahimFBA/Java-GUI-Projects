@@ -162,7 +162,11 @@ public class AddNumbers extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField1ActionPerformed
 
     private void AddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_AddActionPerformed
-        // TODO add your handling code here:
+        float number1, number2, result;
+        number1 = Float.parseFloat(jTextField1.getText());
+        number2 = Float.parseFloat(jTextField2.getText());
+        result = number1 + number2;
+        jTextField3.setText(String.valueOf(result));
     }//GEN-LAST:event_AddActionPerformed
 
     private void ExitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitActionPerformed
