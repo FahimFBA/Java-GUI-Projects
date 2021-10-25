@@ -1,6 +1,6 @@
 
 
-# :wave: hey there! 
+# Hey there! 
 
 ![laptop and person](img/giphy.gif)
 
